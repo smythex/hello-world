@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+What's good world?
+
+I love jiu jitsu, MMA and nerdy stuff like coding!
